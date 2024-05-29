@@ -33,6 +33,7 @@ STR_VHST_600X_NAME                                  :[KR+] VHST-600X
 # Metro's name
 STR_Standard_Metro_NAME                             :[KR+] Standard Metro
 STR_AUTS_NAME                                       :[KR+] AUTS
+STR_3XXK_EXPRESS_GEN3_NAME                          :[KR+] Seoul Metropolitan Subway Express (3rd gen)
 
 # wagon's name
 STR_KTS_PASS_NAME                                   :[KR+] Passenger car
@@ -76,6 +77,7 @@ STR_REFIT_ADDITIONAL_TTX                            :{BLACK}Changing model/liver
 STR_REFIT_ADDITIONAL_VHST_600X                      :{BLACK}Changing model/livery: {GREEN}available {}{BLACK}Combined train: {GREEN}VHST_600X
 STR_REFIT_ADDITIONAL_Standard_Metro                 :{BLACK}Changing model/livery: {GREEN}Available {}{BLACK}Combined train: {RED}Unavailable
 STR_REFIT_ADDITIONAL_AUTS                           :{BLACK}Changing model/livery: {GREEN}Available {}{BLACK}Combined train: {RED}Unavailable
+STR_REFIT_ADDITIONAL_3XXK_EXPRESS_GEN3              :{BLACK}Changing model/livery: {RED}Unavailable {}{BLACK}Combined train: {RED}Unavailable
 
 STR_REFIT_ADDITIONAL                                :{BLACK}Changing model/livery: {GREEN}Available
 STR_REFIT_train_configuration_Passenger             :{BLACK}train configuration: {GREEN}Passenger vehicles

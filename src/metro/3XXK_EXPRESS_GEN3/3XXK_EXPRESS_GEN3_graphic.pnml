@@ -1,0 +1,36 @@
+/*--------------------------------------------------------------------
+Graphics
+--------------------------------------------------------------------*/
+spriteset(set_3XXK_EXPRESS_GEN3_purchase, "src/metro/3XXK_EXPRESS_GEN3/3XXK_EXPRESS_GEN3.png"){
+    tmpl_purchase(0, 0)
+}
+
+/*--------------------------------------------------------------------
+1. 3XXK_EXPRESS_GEN3
+--------------------------------------------------------------------*/
+spriteset(set_3XXK_EXPRESS_GEN3H_purchase, "src/metro/3XXK_EXPRESS_GEN3/3XXK_EXPRESS_GEN3.png"){
+    tmpl_purchase_for_dualhead(0, 81)
+}
+
+spriteset(set_3XXK_EXPRESS_GEN3_engineH, "src/metro/3XXK_EXPRESS_GEN3/3XXK_EXPRESS_GEN3.png"){
+    engine(80, 0)
+}
+
+spriteset(set_3XXK_EXPRESS_GEN3_panto_wagon, "src/metro/3XXK_EXPRESS_GEN3/3XXK_EXPRESS_GEN3.png") {
+    wagon_1F_F(80, 27)
+}
+
+spriteset(set_3XXK_EXPRESS_GEN3_wagon, "src/metro/3XXK_EXPRESS_GEN3/3XXK_EXPRESS_GEN3.png") {
+    wagon_1F(80, 54)
+}
+
+spriteset(set_3XXK_EXPRESS_GEN3_engineT, "src/metro/3XXK_EXPRESS_GEN3/3XXK_EXPRESS_GEN3.png"){
+    engine_r(80, 81)
+}
+
+/*--------------------------------------------------------------------
+구매정보
+-------------------------------------------------------------------*/
+switch(FEAT_TRAINS, SELF, sw_3XXK_EXPRESS_GEN3_purchase, cargo_subtype) {
+    set_3XXK_EXPRESS_GEN3_purchase;
+}

@@ -10,11 +10,11 @@ STR_GRF_URL                                      :https://github.com/OpenCreativ
 STR_AREX_NAME                                       :[KR+] AREX (공항철도)
 STR_CTX_NAME                                        :[KR+] CTX
 STR_DEL7600_NAME                                    :[KR+] DEL7600
-STR_EMU150_NAME                                     :[KR+] ITX-새마을 (EMU-150)
+STR_EMU150_NAME                                     :[KR+] ITX-마음 (EMU-150)
 STR_EMU260_NAME                                     :[KR+] KTX-이음 (EMU-260)
 STR_EMU260_DD_NAME                                  :[KR+] KTX-이음 Max (EMU-260)
-STR_EMU320_NAME                                     :[KR+] KTX-이음 (EMU-320)
-STR_EMU320_DD_NAME                                  :[KR+] KTX-이음 Max (EMU-320)
+STR_EMU320_NAME                                     :[KR+] KTX-청룡 (EMU-320)
+STR_EMU320_DD_NAME                                  :[KR+] KTX-청룡 Max (EMU-320)
 STR_GT26CW_NAME                                     :[KR+] 7100·7200·7300·7400·7500호대 디젤기관차
 STR_GTX_NAME                                        :[KR+] GTX
 STR_HEMU_430X_NAME                                  :[KR+] HEMU-430X (해무)
@@ -33,6 +33,7 @@ STR_VHST_600X_NAME                                  :[KR+] VHST-600X
 # Metro's name
 STR_Standard_Metro_NAME                             :[KR+] 한국형 표준전동차
 STR_AUTS_NAME                                       :[KR+] 차세대전동차 (AUTS)
+STR_3XXK_EXPRESS_GEN3_NAME                          :[KR+] 한국풍 근교형 광역급행 전동차 (3세대)
 
 # wagon's name
 STR_KTS_PASS_NAME                                   :[KR+] 승객 수송 차량
@@ -76,6 +77,7 @@ STR_REFIT_ADDITIONAL_TTX                            :{BLACK}도색/모델 변경
 STR_REFIT_ADDITIONAL_VHST_600X                      :{BLACK}도색/모델 변경: {RED}불가능 {}{GREEN}2016년에 연구된 고속열차
 STR_REFIT_ADDITIONAL_Standard_Metro                 :{BLACK}도색/모델 변경: {GREEN}가능 {}{GREEN}1999년에 개발된 도시철도 표준 전동차
 STR_REFIT_ADDITIONAL_AUTS                           :{BLACK}도색/모델 변경: {GREEN}가능 {}{GREEN}2010년에 개발된 차세대 도시철도 전동차
+STR_REFIT_ADDITIONAL_3XXK_EXPRESS_GEN3              :{BLACK}도색/모델 변경: {RED}불가능 {}{GREEN}뱀눈이의 외관을 기반으로 제작된 3비차 크로스 시트 광역급행형 전동차라는 컨셉을 가진 열차.
 
 STR_REFIT_ADDITIONAL                                :{BLACK}도색/모델 변경: {GREEN}가능
 STR_REFIT_train_configuration_Passenger             :{BLACK}열차구성: {GREEN}승객 차량용

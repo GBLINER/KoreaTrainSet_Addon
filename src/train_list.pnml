@@ -31,6 +31,7 @@
 
 //Metro
 #include "metro/AUTS/AUTS.pnml"
+#include "metro/3XXK_EXPRESS_GEN3/3XXK_EXPRESS_GEN3.pnml"
 #include "metro/standard/Standard.pnml"
 
 // Sorting

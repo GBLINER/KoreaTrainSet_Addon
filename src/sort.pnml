@@ -26,6 +26,7 @@ sort(FEAT_TRAINS, [
     GT26CW,                    //1114
     DEL7600,                   //1148
     APEX20005,                 //1138
+    KEXGEN3,                //1149
     
     KTS_Passenger_Car,         //1061
     KTS_SPassenger_Car,        //1112
